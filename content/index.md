@@ -1,6 +1,3 @@
 ---
-title: Welcome to Quartz
+title: Welcome to Physics Olympiad notes
 ---
-
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
