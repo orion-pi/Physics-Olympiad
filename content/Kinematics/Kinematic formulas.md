@@ -7,6 +7,7 @@ $v_{f}^2=v_{i}^2+2a \Delta x$
 $\Delta x=\frac{1}{2}(v_{i}+v_{f})t$
 
 
+---
 
 Problems: If you ride a bike up a hill at 10 mph and down the hill at 20 mph, what it your average speed?
 
